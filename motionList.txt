@@ -1,0 +1,2 @@
+- 直走 (Project1-Interactive Character Animation\Assets\BVH\walk.bvh) 来源: HW2--BVH Loader(来源应为: SFU database), 采用了线性回归将动作序列加长
+- 翻滚 (Project1-Interactive Character Animation\Assets\BVH\cartwheel.bvh) 来源: HW2--BVH Loader(来源应为: SFU database), 进行了裁剪
