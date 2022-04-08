@@ -19,7 +19,7 @@
 
 ## 效果展示  
 
-![demo展示](demo/ICA-demo.mp4)
+![demo展示](demo/ICA-demo.gif)
 
 ## 补充说明  
 
